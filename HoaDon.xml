@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSachHoaDon>
+	<HoaDon>
+		<MaHD>HD01</MaHD>
+		<NgayLap>14/12/2025</NgayLap>
+		<MaNV>Admin</MaNV>
+		<TenKhach>Nguyen Van A</TenKhach>
+		<TenSP>CPU Core i5</TenSP>
+		<SoLuong>1</SoLuong>
+		<ThanhTien>3500000</ThanhTien>
+	</HoaDon>
+</DanhSachHoaDon>

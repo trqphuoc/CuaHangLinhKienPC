@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<KhoLinhKien>
+	<LinhKien>
+		<MaLK>CPU01</MaLK>
+		<TenLK>Intel Core i5 12400F</TenLK>
+		<HangSX>Intel</HangSX>
+		<LoaiLK>CPU</LoaiLK>
+		<SoLuong>10</SoLuong>
+		<DonGia>3500000</DonGia>
+	</LinhKien>
+	<LinhKien>
+		<MaLK>CPU02</MaLK>
+		<TenLK>AMD Ryzen 5 5600X</TenLK>
+		<HangSX>AMD</HangSX>
+		<LoaiLK>CPU</LoaiLK>
+		<SoLuong>15</SoLuong>
+		<DonGia>3900000</DonGia>
+	</LinhKien>
+	<LinhKien>
+		<MaLK>CPU03</MaLK>
+		<TenLK>Intel Core i9 13900K</TenLK>
+		<HangSX>Intel</HangSX>
+		<LoaiLK>CPU</LoaiLK>
+		<SoLuong>5</SoLuong>
+		<DonGia>14500000</DonGia>
+	</LinhKien>
+
+	<LinhKien>
+		<MaLK>RAM01</MaLK>
+		<TenLK>Kingston Fury Beast 8GB</TenLK>
+		<HangSX>Kingston</HangSX>
+		<LoaiLK>RAM</LoaiLK>
+		<SoLuong>50</SoLuong>
+		<DonGia>750000</DonGia>
+	</LinhKien>
+	<LinhKien>
+		<MaLK>RAM02</MaLK>
+		<TenLK>Corsair Vengeance RGB 16GB</TenLK>
+		<HangSX>Corsair</HangSX>
+		<LoaiLK>RAM</LoaiLK>
+		<SoLuong>30</SoLuong>
+		<DonGia>1250000</DonGia>
+	</LinhKien>
+
+	<LinhKien>
+		<MaLK>VGA01</MaLK>
+		<TenLK>Gigabyte RTX 3060 Gaming OC</TenLK>
+		<HangSX>Gigabyte</HangSX>
+		<LoaiLK>VGA</LoaiLK>
+		<SoLuong>20</SoLuong>
+		<DonGia>8500000</DonGia>
+	</LinhKien>
+	<LinhKien>
+		<MaLK>VGA02</MaLK>
+		<TenLK>Asus ROG Strix RTX 4090</TenLK>
+		<HangSX>Asus</HangSX>
+		<LoaiLK>VGA</LoaiLK>
+		<SoLuong>3</SoLuong>
+		<DonGia>45000000</DonGia>
+	</LinhKien>
+
+	<LinhKien>
+		<MaLK>MAIN01</MaLK>
+		<TenLK>Asus TUF Gaming B660M</TenLK>
+		<HangSX>Asus</HangSX>
+		<LoaiLK>Mainboard</LoaiLK>
+		<SoLuong>25</SoLuong>
+		<DonGia>3200000</DonGia>
+	</LinhKien>
+	<LinhKien>
+		<MaLK>MAIN02</MaLK>
+		<TenLK>MSI MPG Z790 Edge Wifi</TenLK>
+		<HangSX>MSI</HangSX>
+		<LoaiLK>Mainboard</LoaiLK>
+		<SoLuong>8</SoLuong>
+		<DonGia>8900000</DonGia>
+	</LinhKien>
+
+	<LinhKien>
+		<MaLK>SSD01</MaLK>
+		<TenLK>Samsung 980 Pro NVMe 1TB</TenLK>
+		<HangSX>Samsung</HangSX>
+		<LoaiLK>SSD</LoaiLK>
+		<SoLuong>40</SoLuong>
+		<DonGia>2500000</DonGia>
+	</LinhKien>
+	<LinhKien>
+		<MaLK>HDD01</MaLK>
+		<TenLK>WD Blue 1TB 7200rpm</TenLK>
+		<HangSX>Western Digital</HangSX>
+		<LoaiLK>HDD</LoaiLK>
+		<SoLuong>20</SoLuong>
+		<DonGia>950000</DonGia>
+	</LinhKien>
+
+	<LinhKien>
+		<MaLK>PSU01</MaLK>
+		<TenLK>Corsair CV650 650W 80 Plus</TenLK>
+		<HangSX>Corsair</HangSX>
+		<LoaiLK>Nguon</LoaiLK>
+		<SoLuong>35</SoLuong>
+		<DonGia>1100000</DonGia>
+	</LinhKien>
+	<LinhKien>
+		<MaLK>CASE01</MaLK>
+		<TenLK>Xigmatek Gaming X 3F</TenLK>
+		<HangSX>Xigmatek</HangSX>
+		<LoaiLK>Vo Case</LoaiLK>
+		<SoLuong>15</SoLuong>
+		<DonGia>850000</DonGia>
+	</LinhKien>
+
+	<LinhKien>
+		<MaLK>LCD01</MaLK>
+		<TenLK>Dell Ultrasharp U2422H</TenLK>
+		<HangSX>Dell</HangSX>
+		<LoaiLK>Man Hinh</LoaiLK>
+		<SoLuong>12</SoLuong>
+		<DonGia>5500000</DonGia>
+	</LinhKien>
+</KhoLinhKien>
